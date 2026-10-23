@@ -1,0 +1,21 @@
+course_id,course_title,category,difficulty,estimated_hours
+CRS_001,Module 1: Applied TensorFlow,Soft Skills,Advanced,12
+CRS_002,Module 2: Advanced Data Analysis,Data Science & ML,Advanced,27
+CRS_003,Module 3: Applied SQL,Soft Skills,Advanced,26
+CRS_004,Module 4: Advanced Django,Deep Learning,Intermediate,6
+CRS_005,Module 5: Mastering Data Analysis,Python & Programming,Intermediate,26
+CRS_006,Module 6: Advanced Streamlit,Python & Programming,Advanced,32
+CRS_007,Module 7: Mastering Machine Learning,Deep Learning,Advanced,7
+CRS_008,Module 8: Advanced Machine Learning,Soft Skills,Beginner,22
+CRS_009,Module 9: Mastering Streamlit,Deep Learning,Intermediate,13
+CRS_010,Module 10: Fundamentals of Data Analysis,Data Science & ML,Advanced,11
+CRS_011,Module 11: Mastering SQL,Web Development,Intermediate,21
+CRS_012,Module 12: Mastering Django,Deep Learning,Intermediate,10
+CRS_013,Module 13: Fundamentals of Communication,Deep Learning,Intermediate,33
+CRS_014,Module 14: Applied Django,Data Science & ML,Intermediate,14
+CRS_015,Module 15: Fundamentals of TensorFlow,Cloud & DevOps,Advanced,19
+CRS_016,Module 16: Mastering Git,Deep Learning,Beginner,25
+CRS_017,Module 17: Mastering Django,Soft Skills,Intermediate,29
+CRS_018,Module 18: Mastering Streamlit,Soft Skills,Advanced,5
+CRS_019,Module 19: Advanced Git,Python & Programming,Beginner,12
+CRS_020,Module 20: Mastering Machine Learning,Python & Programming,Advanced,39
